@@ -1,4 +1,4 @@
-package com.demo.sisyphus.myapplication;
+package com.demo.sisyphus.myloader;
 
 import android.content.Context;
 import android.content.res.TypedArray;
