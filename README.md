@@ -1,8 +1,6 @@
-# MyLoader
-commit 1#
-
 This is a View defined by myself, which is a ProgressBar look like a ball filled with water. 
 you can use it like this:
+```
 <com.demo.sisyphus.myapplication.MyLoader
         android:id="@+id/my_loader"
         android:layout_width="match_parent"
@@ -13,3 +11,4 @@ you can use it like this:
         app:text_size="15pt" //size of text, default is radius/4
         app:text_color="#DDDDDD" //color of text, default is gray
         app:text="66%"/> //content of text
+ ```
